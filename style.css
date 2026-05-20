@@ -105,13 +105,13 @@ footer{
     main{
         display: grid;
         grid-template-columns: 1fr;
-        grid-template-areas: none
+        grid-template-areas:
         "he"
         "na"
         "ar"
         "as"
         "fo"
-        
+
         ;
     }
     
